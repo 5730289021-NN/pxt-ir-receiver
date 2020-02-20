@@ -28,7 +28,7 @@ enum class Pins{
 };
 
 enum class RemoteButton {
-  Power = 0x0,
+  POWER = 0x0,
   Up = 0x5,
   Left = 0x8,
   Right = 0xA,
